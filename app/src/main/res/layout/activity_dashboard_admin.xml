@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#ffb347"
+    tools:context=".DashboardAdmin">
+
+    <TextView
+        android:id="@+id/TVTampilStatistik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Jumlah Pencoblos"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/TVTampilCalon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="5"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/TVTampilPencoblos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Jumlah Calon"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/TVTampilAngka"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="2"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnDataPencoblos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data Pencoblos"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:background="@drawable/rounded"
+        style="@style/Widget.AppCompat.Button.Colored" />
+
+    <Button
+        android:id="@+id/btnDataCalon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data Calon"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:background="@drawable/rounded"
+        style="@style/Widget.AppCompat.Button.Colored" />
+
+
+
+
+</LinearLayout>

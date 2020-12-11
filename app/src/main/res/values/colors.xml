@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A52A2A</color>
+    <color name="colorPrimaryDark">#711C1C</color>
+    <color name="colorAccent">#FF3D00</color>
+    <color name="Oranye">#ffb347</color>
+    <color name="Merah">#A52A2A</color>
+    <color name="colorGrey">#C0B6B6</color>
+</resources>

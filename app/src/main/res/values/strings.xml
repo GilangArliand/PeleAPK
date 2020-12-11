@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">pele</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="jenis_kelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="agama">
+        <item>Islam</item>
+        <item>Kristen</item>
+    </string-array>
+    <string-array name="status">
+        <item>Belum Menikah</item>
+        <item>Sudah Menikah</item>
+    </string-array>
+    <string-array name="kewarganegaraan">
+        <item>Indonesia</item>
+        <item>Asing</item>
+    </string-array>
+
+</resources>
